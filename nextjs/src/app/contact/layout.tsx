@@ -1,7 +1,7 @@
 export default function Contact({ children }) {
   return (
     <>
-      <h1>Contact Page!</h1>
+      <h2>Contact Page!</h2>
       {children}
     </>
   );
